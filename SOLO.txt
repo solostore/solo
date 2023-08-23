@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>متجري</title>
+</head>
+<body>
+<h1>مرحبًا بك في متجري</h1>
+<p>تسوق من مجموعة كبيرة من المنتجات عبر متجرنا الإلكتروني.</p>
+<a href="https://solostore20.com">زيارة المتجر</a>
+</body>
+</html>
